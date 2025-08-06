@@ -1,0 +1,4 @@
+gradio
+requests
+openai-whisper
+ffmpeg-python
